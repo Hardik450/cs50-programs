@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It demonstrates faster runtime performance when sorting already sorted datasets. However, its performance degrades noticeably with larger datasets containing reversed or random numbers.
+
+sort2 uses: Merge Sort
+
+How do you know?: This algorithm exhibits consistent and efficient performance across all datasets, regardless of their size or order.
+
+sort3 uses: Selection Sort
+
+How do you know?: It performs poorly, particularly on larger datasets containing 50,000 elements, while showing relatively faster runtime on smaller datasets with 5,000 elements.
